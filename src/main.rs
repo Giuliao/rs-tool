@@ -9,5 +9,8 @@ fn main() {
         Commands::Docker(docker_cmd) => {
             docker_cmd.run();
         }
+        Commands::Git(git_cmd) => {
+            git_cmd.run();
+        }
     }
 }

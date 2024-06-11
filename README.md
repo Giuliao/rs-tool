@@ -24,3 +24,11 @@ to delete the images line by line and interactively.
 ```bash
 Do you want to delete node (f85482183a4f), y or n (default n)
 ```
+
+## Git
+```bash
+rs-tool git
+```
+```bash
+Do you want to delete git, y or n (default n)y
+```
